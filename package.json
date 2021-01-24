@@ -1,0 +1,16 @@
+{
+  "name": "Milli İstihbarat Teşkilatı Koruma",
+  "version": "0.0.1",
+  "description": "Milli İstihbarat Teşkilatı Koruma Botu",
+  "main": "gua.js",
+  "scripts": {
+    "test": "node gua.js"
+  },
+  "author": "Ahmet",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security"
+  },
+  "keywords": []
+}
